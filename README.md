@@ -25,7 +25,7 @@ de cadastro, busca e controle de empréstimos de livros.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/sistema-biblioteca
+   git clone https://github.com/Vítor Guilherme/sistema-biblioteca
    ```
 2. Acesse a pasta do projeto:
    ```bash
