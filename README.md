@@ -25,7 +25,7 @@ de cadastro, busca e controle de empréstimos de livros.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Vítor Guilherme/sistema-biblioteca
+   git clone https://github.com/DESTRUIDOR2029/sistema-biblioteca
    ```
 2. Acesse a pasta do projeto:
    ```bash
@@ -49,4 +49,4 @@ de cadastro, busca e controle de empréstimos de livros.
 Desenvolvido por **Vitor** como projeto acadêmico.  
 Curso de Ciências da Computação — 1º semestre.
 
-[![GitHub](https://img.shields.io/badge/GitHub-SEU_USUARIO-181717?style=flat&logo=github)](https://github.com/SEU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-DESTRUIDOR2029-181717?style=flat&logo=github)](https://github.com/DESTRUIDOR2029)
